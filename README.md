@@ -1,6 +1,7 @@
 # Powershell-automation
 ---
 ### Desktop
+–––––––––––––––––––––
 
 This repository contains PowerShell automation projects developed from real‑world helpdesk and Tier 2 support experience, with a focus on systems administration and operational troubleshooting. The projects emphasize system health monitoring, change detection, user and device reporting, and safe automation practices commonly used in enterprise Windows environments.
 PowerShell, documentation, and troubleshooting are integrated throughout, with an emphasis on read‑only analysis, repeatable workflows, and escalation‑quality outputs.
@@ -8,11 +9,13 @@ The goal of this portfolio is to demonstrate practical, job‑ready skills that 
 
 ---
 ### Projects
+–––––––––––––––––––––
 
 ...
 
 ---
 ### Goals
+–––––––––––––––––––––
 
 - Translate common Tier 2 support tasks into reusable PowerShell workflows to improve troubleshooting efficiency and escalation quality
 
