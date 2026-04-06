@@ -1,32 +1,15 @@
 # Powershell-automation
-## System Snapshot and Change Detection Tool
 
-### Purpose
-This script captures key system configuration data and allows comparison between snapshots to identify unexpected changes after updates, installs, or incidents.
+### Desktop
+This repository contains PowerShell automation projects developed from real‑world helpdesk and Tier 2 support experience, with a focus on systems administration and operational troubleshooting. The projects emphasize system health monitoring, change detection, user and device reporting, and safe automation practices commonly used in enterprise Windows environments.
+PowerShell, documentation, and troubleshooting are integrated throughout, with an emphasis on read‑only analysis, repeatable workflows, and escalation‑quality outputs.
+The goal of this portfolio is to demonstrate practical, job‑ready skills that align with the day‑to‑day responsibilities of a junior systems administrator or systems engineer.
 
-### Problem It Solves
-Helpdesk and sysadmin troubleshooting often relies on assumptions. This tool provides concrete evidence of system changes, reducing guesswork and escalation time.
+### Projects
+...
 
-### What It Collects
-- Installed software
-- Service state and startup type
-- Core system information
-
-### How It Works
-1. Takes a timestamped snapshot of the system state
-2. Saves results as structured CSV files
-3. Compares two snapshots and reports differences
-
-### Example Use Case
-After a Windows update, a user reports degraded performance. Comparing pre/post snapshots identifies a newly installed application and a service startup change.
-
-### Safety Considerations
-- Read-only operations only
-- No system modifications
-- Clear separation between data collection and comparison
-
-### Skills Demonstrated
-- PowerShell scripting
-- Structured data handling
-- Troubleshooting automation
-- Change awareness
+### Goals
+Translate common Tier 2 support tasks into reusable PowerShell workflows to improve troubleshooting efficiency and escalation quality
+Practice systems‑focused analysis by collecting, comparing, and reporting on system health and configuration data
+Strengthen foundational systems administration skills through automation, documentation, and structured troubleshooting
+Use PowerShell as a long‑term tool for reducing repetitive work and supporting scalable IT operations
